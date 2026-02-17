@@ -20,6 +20,6 @@ h2{
   margin-left:25px !important;
 }
 .swiper-button-prev:after, .swiper-button-next:after{
-  color: #1C1468 !important;
+  color: #383838 !important;
   content: '';
 }

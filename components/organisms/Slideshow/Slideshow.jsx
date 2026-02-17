@@ -8,18 +8,18 @@ const slides = [
   {
     id: 1,
     image: '/images/slide1.webp',
-    title: 'Kaliteli bir yaşam için, sağlıkla nefes alın',
-    desc: 'Burnunuzun doğal yapısını koruyarak estetik görünüm ve sağlıklı nefes alışverişini bir arada sunuyoruz. Rinoplasti ve septoplasti uygulamalarında hedefimiz, hem fonksiyonel hem de estetik açıdan yaşam kalitenizi yükseltmektir.',
+    title: 'En Değerli Giysiniz Cildiniz',
+    desc: 'Bilimsel dokunuşlarla sağlıklı ve güçlü bir cilt',
     btnText: 'Neler Yapıyoruz ?',
-    btnUrl: '/hizmetler'
+    btnUrl: '/tedaviler'
   },
   {
     id: 2,
     image: '/images/slide2.webp',
-    title: 'Nefesiniz ve güzelliğiniz, uzman ellerde',
-    desc: 'Doğal güzellik ve rahat nefes alma dengesini, kişiye özel cerrahi planlamayla bir araya getiriyoruz. Estetik burun cerrahisinde yalnızca görünümü değil, aynı zamanda fonksiyonelliği de ön planda tutuyoruz.',
+    title: 'Güzel Görünmek Sağlıklı Bir Ciltle Başlar',
+    desc: 'Bilimle planlanan dermatoloji',
     btnText: 'Keşfet',
-    btnUrl: '/hizmetler'
+    btnUrl: '/tedaviler'
   },
 ];
 
@@ -82,7 +82,7 @@ export default function Slider() {
 
   return (
     <section>
-      <div className="relative w-full h-[calc(100vh-100px)] overflow-hidden bg-black text-white">
+      <div className="relative w-full h-[calc(100vh-80px)] overflow-hidden bg-black text-white">
         <div className="absolute inset-0 z-0">
           <img
             ref={imageRef}

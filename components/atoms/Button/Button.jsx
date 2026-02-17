@@ -6,7 +6,7 @@ const Button = forwardRef(function Button(
   {
     text,
     backgroundColor = '#ffffff',
-    textColor = '#1C1468',
+    textColor = '#383838',
     onClick,
     icon = null,
   },
@@ -22,7 +22,7 @@ const Button = forwardRef(function Button(
   const handleMouseEnter = () => {
     gsap.to(buttonRef.current, {
       y: -4,
-      backgroundColor: '#1C1468',
+      backgroundColor: '#383838',
       color: '#fff',
       boxShadow: '0px 8px 20px rgba(51,97,89,0.4)',
       duration: 0.4,
@@ -34,7 +34,7 @@ const Button = forwardRef(function Button(
     gsap.to(buttonRef.current, {
       y: 0,
       backgroundColor: '#ffffff',
-      color: '#1C1468',
+      color: '#383838',
       boxShadow: '0px 0px 0px rgba(0,0,0,0)',
       duration: 0.4,
       ease: 'power3.out',

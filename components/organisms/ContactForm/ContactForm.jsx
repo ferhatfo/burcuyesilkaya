@@ -5,7 +5,7 @@ export default function ContactForm() {
         <div className="container mx-auto px-4">
           <div className="bg-white rounded-[30px] shadow-[0_0_30px_rgba(0,0,0,0.1)]">
             <div className="flex flex-col md:flex-row gap-8">
-              <div className="md:w-5/12 bg-[#1C1468] rounded-[30px] flex flex-col justify-center items-center text-left px-6 py-10">
+              <div className="md:w-5/12 bg-[#383838] rounded-[30px] flex flex-col justify-center items-center text-left px-6 py-10">
                 <div>
                   <h6 className="text-white text-sm md:text-base mb-4">Bize Mesaj Bırakın</h6>
                   <h2 className="text-white text-2xl md:text-4xl">
@@ -21,7 +21,7 @@ export default function ContactForm() {
                         type="text"
                         name="text"
                         required
-                        className="peer w-full border-b border-gray-400 py-2 text-sm focus:outline-none focus:border-[#1C1468]"
+                        className="peer w-full border-b border-gray-400 py-2 text-sm focus:outline-none focus:border-[#383838]"
                         placeholder="İsim Soyisim"
                       />
                     </div>
@@ -30,7 +30,7 @@ export default function ContactForm() {
                         type="text"
                         name="phone"
                         required
-                        className="peer w-full border-b border-gray-400 py-2 text-sm focus:outline-none focus:border-[#1C1468] color-[#1C1468]"
+                        className="peer w-full border-b border-gray-400 py-2 text-sm focus:outline-none focus:border-[#383838] color-[#383838]"
                         placeholder="Telefon Numaranız"
                       />
                     </div>
@@ -39,7 +39,7 @@ export default function ContactForm() {
                         type="email"
                         name="mail"
                         required
-                        className="peer w-full border-b border-gray-400 py-2 text-sm focus:outline-none focus:border-[#1C1468]"
+                        className="peer w-full border-b border-gray-400 py-2 text-sm focus:outline-none focus:border-[#383838]"
                         placeholder="Mail Adresiniz"
                       />
                     </div>
@@ -48,7 +48,7 @@ export default function ContactForm() {
                         type="text"
                         name="subject"
                         required
-                        className="peer w-full border-b border-gray-400 py-2 text-sm focus:outline-none focus:border-[#1C1468]"
+                        className="peer w-full border-b border-gray-400 py-2 text-sm focus:outline-none focus:border-[#383838]"
                         placeholder="Konu Başlığı"
                       />
                     </div>
@@ -58,14 +58,14 @@ export default function ContactForm() {
                       name="message"
                       rows={4}
                       required
-                      className="peer w-full border-b border-gray-400 py-2 text-sm focus:outline-none focus:border-[#1C1468]"
+                      className="peer w-full border-b border-gray-400 py-2 text-sm focus:outline-none focus:border-[#383838]"
                       placeholder="Mesajınız"
                     ></textarea>
                   </div>
                   <div className="text-center md:text-right">
                     <button
                       type="submit"
-                      className="inline-flex items-center gap-2 bg-[#1C1468] text-white px-6 py-2 rounded-full hover:bg-[#1C1468] transition"
+                      className="inline-flex items-center gap-2 bg-[#383838] text-white px-6 py-2 rounded-full hover:bg-[#383838] transition"
                     >
                       <span>Gönder</span>
                       <FaArrowRight size={14} />

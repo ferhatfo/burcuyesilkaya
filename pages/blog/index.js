@@ -5,13 +5,13 @@ export default function blogsPage({ blogs }) {
   return (
     <>
         <Head>
-            <title>Blog - Dr. Kerim Sadullahoğlu</title>
-            <meta name="description" content={`Dr. Kerim Sadullahoğlu olarak sunduğumuz farklı hizmetleri inceleyin.`} />
+            <title>Blog - Uzman Dr. Burcu Yeşilkaya</title>
+            <meta name="description" content={`Uzman Dr. Burcu Yeşilkaya olarak sunduğumuz farklı hizmetleri inceleyin.`} />
         </Head>
 
         <MultiPageHeader
             subtitle="Blog Paylaşımlarımız"
-            title="Dr. Kerim Sadullahoğlu"
+            title="Uzman Dr. Burcu Yeşilkaya"
             isImage={false}
         />
        

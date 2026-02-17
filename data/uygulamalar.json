@@ -1,0 +1,202 @@
+[
+  {
+    "category": "Botulinum Toksin (Botoks) Uygulamaları",
+    "description": "Botulinum toksin (botoks) uygulamaları ile yüz bölgesindeki kırışıklıkların giderilmesi, terleme problemlerinin çözülmesi ve estetik iyileştirmeler sağlanır.",
+    "image": "/images/treatments/tum-yuz-botoksu.webp",
+    "treatments": [
+      {
+        "title": "Tüm Yüz Botoksu",
+        "description": "Alın çizgileri, kaş arası çizgiler, göz çevresi kırışıklıkları ve diğer yüz bölgelerindeki kırışıklıkların tedavisi için uygulanan kapsamlı botoks uygulamasıdır. Doğal ve genç bir görünüm sağlar."
+      },
+      {
+        "title": "Terleme Botoksu (Koltuk Altı, El & Ayak)",
+        "description": "Aşırı terleme (hiperhidroz) problemi olan bölgelere uygulanan botoks tedavisidir. Koltuk altı, el ve ayak bölgelerinde %80-90 terleme azalması sağlar. 6-12 ay etkilidir."
+      },
+      {
+        "title": "Diş Sıkma (Masseter) Botoksu",
+        "description": "Çene kasına (masseter) uygulanan botoks ile diş sıkma ve gıcırdatma problemi çözülür. Ayrıca çene hattını incelterek V-line yüz şekli sağlar."
+      },
+      {
+        "title": "Kaş Kaldırma Botoksu",
+        "description": "Sarkan kaşları yukarı kaldırarak gözleri daha açık gösteren ve genç bir bakış sağlayan botoks uygulamasıdır. Ameliyatsız lifting etkisi yaratır."
+      }
+    ]
+  },
+  {
+    "category": "Dolgu Uygulamaları",
+    "description": "Hyaluronik asit ve diğer dolgu maddeleri ile hacim kaybının giderilmesi, konturların belirginleştirilmesi ve genç bir görünüm sağlanır.",
+    "image": "/images/treatments/hyaluronik-asit-dolgular.webp",
+    "treatments": [
+      {
+        "title": "Hyaluronik Asit Dolgular",
+        "description": "Doğal bir madde olan hyaluronik asit ile hacim kaybını giderir, konturları belirginleştirir. 6-18 ay etkilidir ve geri dönüşümlüdür."
+      },
+      {
+        "title": "Yarı Kalıcı Dolgular",
+        "description": "Kalsiyum hidroksiapatit ve polikaprolakton gibi yarı kalıcı dolgu maddeleri ile daha uzun süreli hacim kazancı sağlanır. 12-24 ay etkilidir."
+      },
+      {
+        "title": "Dudak Dolgusu",
+        "description": "Dudak hacmini artırır, konturunu belirginleştirir ve daha dolgun, genç bir görünüm sağlar. Doğal ve estetik sonuçlar verir."
+      },
+      {
+        "title": "Yüz Dolgusu",
+        "description": "Yanak, elmacık kemiği ve diğer yüz bölgelerine uygulanan dolgu ile hacim kaybı giderilir ve daha genç bir görünüm sağlanır."
+      },
+      {
+        "title": "Göz Altı Işık Dolgusu",
+        "description": "Göz altı çukurlarını doldurur, morlukları azaltır ve yorgun görünümü giderir. Işıltılı ve canlı bir bakış sağlar."
+      },
+      {
+        "title": "Dolgu Eritme",
+        "description": "İstenmeyen dolguların hyaluronidaz enzimi ile güvenli şekilde eritilmesi işlemidir. Hızlı ve etkili bir çözümdür."
+      }
+    ]
+  },
+  {
+    "category": "Cilt Gençleştirme & Yenileme",
+    "description": "Ameliyatsız yöntemlerle cilt sıkılaştırma, kırışıklık azaltma ve cilt yenilenmesi sağlanır.",
+    "image": "/images/treatments/ameliyatsiz-yuz-germe.webp",
+    "treatments": [
+      {
+        "title": "Ameliyatsız Yüz Germe",
+        "description": "Cerrahi müdahale gerektirmeden yüz sarkmasını toparlayan ve cilt sıkılaşması sağlayan non-invaziv yöntemlerdir."
+      },
+      {
+        "title": "Altın İğne (İğneli Radyofrekans)",
+        "description": "Altın kaplı mikro iğnelerle cilt altına radyofrekans enerjisi verilir. Kolajen üretimi artar, cilt kendini yeniler."
+      },
+      {
+        "title": "Fraksiyonel CO₂ Lazer",
+        "description": "Cildin kontrollü şekilde soyularak yenilenmesini sağlayan güçlü bir lazer sistemidir. Akne izleri, derin kırışıklıklar ve cilt yenilenmesi için kullanılır."
+      },
+      {
+        "title": "Fokus Ultrason (HIFU)",
+        "description": "Ultrason enerjisi ile cilt altı dokularına odaklanarak kolajen üretimini artırır ve cilt sıkılaşması sağlar."
+      },
+      {
+        "title": "Mezobotoks",
+        "description": "Cilt altına mikro dozlarda botoks enjeksiyonu ile gözenekleri küçültür, cilt kalitesini artırır ve parlak bir görünüm sağlar."
+      },
+      {
+        "title": "Somon DNA",
+        "description": "Doğal somon DNA'sı içeren serum ile cilt yenilenmesi, nemlendirme ve anti-aging etkisi sağlanır."
+      },
+      {
+        "title": "Kollajen Uygulamaları",
+        "description": "Cilt altına kollajen enjeksiyonu ile cilt sıkılaşması, kırışıklık azalması ve daha genç bir görünüm sağlanır."
+      }
+    ]
+  },
+  {
+    "category": "Leke, İz & Akne Tedavileri",
+    "description": "Akne, leke ve iz problemlerinin modern dermatoloji yöntemleri ile tedavi edilmesi.",
+    "image": "/images/treatments/akne-ve-sivilce-tedavisi.webp",
+    "treatments": [
+      {
+        "title": "Akne ve Sivilce Tedavisi",
+        "description": "Topikal ve oral ilaçlar, kimyasal peeling, lazer tedavileri ve medikal cilt bakımı ile akne problemini kontrol altına alır."
+      },
+      {
+        "title": "Akne (Sivilce) İzleri Tedavisi",
+        "description": "Fraksiyonel lazer, altın iğne, karbon peeling ve dermapen uygulamaları ile akne izlerini azaltır ve cilt dokusunu iyileştirir."
+      },
+      {
+        "title": "Cerrahi ve Travmatik İz Tedavileri",
+        "description": "Cerrahi operasyonlar veya travma sonrası oluşan izlerin fraksiyonel lazer ve diğer yöntemlerle tedavi edilmesidir."
+      },
+      {
+        "title": "Leke Tedavileri",
+        "description": "Lazer (IPL, Q-Switched Nd:YAG) ve Cosmelan (Leke Maskesi) gibi yöntemlerle güneş lekeleri, melasma ve diğer cilt lekelerinin tedavisi."
+      }
+    ]
+  },
+  {
+    "category": "Lazer Uygulamaları",
+    "description": "Lazer teknolojisi ile epilasyon, kılcal damar tedavisi, dövme silme ve diğer estetik uygulamalar.",
+    "image": "/images/treatments/dovme-silme.webp",
+    "treatments": [
+      {
+        "title": "Lazer Epilasyon (Alexandrite & Diod)",
+        "description": "Kalıcı kıl azaltma için altın standart lazer sistemleri. Tüm vücut bölgeleri için güvenli ve etkili sonuçlar sağlar."
+      },
+      {
+        "title": "Kılcal Damar Tedavisi",
+        "description": "Yüz ve vücuttaki görünür kılcal damarların lazer ile tedavi edilmesidir. Kızarıklıkların azalması ve damar görünümünün silinmesi sağlanır."
+      },
+      {
+        "title": "Yüz Damarlarının Lazerle Tedavisi",
+        "description": "Yüz bölgesindeki kılcal damarların ve kızarıklıkların lazer teknolojisi ile güvenli şekilde tedavi edilmesidir."
+      },
+      {
+        "title": "Dövme Silme (Q-Switched Nd:YAG)",
+        "description": "İstenmeyen dövmelerin Q-Switched Nd:YAG lazer ile güvenli ve etkili şekilde silinmesi işlemidir."
+      }
+    ]
+  },
+  {
+    "category": "Cilt Bakımı & Peeling",
+    "description": "Profesyonel cilt bakımı ve peeling uygulamaları ile cilt temizliği, yenilenme ve parlaklık sağlanır.",
+    "image": "/images/treatments/medikal-cilt-bakimi-jetpeel.webp",
+    "treatments": [
+      {
+        "title": "Medikal Cilt Bakımı (JetPeel)",
+        "description": "İğnesiz, basınçlı oksijenle yapılan profesyonel cilt bakımıdır. Cilt temizliği, nemlendirme ve canlı görünüm sağlar."
+      },
+      {
+        "title": "Kimyasal Peeling",
+        "description": "Glikolik asit, salisilik asit, laktik asit ve TCA peeling uygulamaları ile cilt yenilenmesi, leke açılması ve gözenek temizliği sağlanır."
+      },
+      {
+        "title": "Karbon Peeling",
+        "description": "Karbon solüsyon + Q-switched lazer kombinasyonu. Gözenek sıkılaştırma, cilt tonu açma ve parlak görünüm sağlar."
+      },
+      {
+        "title": "Işıltı Peeling",
+        "description": "Hafif ve yüzeysel peeling uygulaması ile cilt tonu eşitleme, parlaklık ve canlı görünüm sağlanır. Minimal iyileşme süresi gerektirir."
+      }
+    ]
+  },
+  {
+    "category": "Saç Sağlığı & Saç Tedavileri",
+    "description": "Saç dökülmesi, saç analizi ve saç sağlığı için modern tedavi yöntemleri.",
+    "image": "/images/treatments/sac-prp.webp",
+    "treatments": [
+      {
+        "title": "Trikoskopik Saç Analizi",
+        "description": "Dijital saç analizi cihazı ile saç yoğunluğu, saç teli kalınlığı, saç kökü durumu ve kıl kökü sayısı değerlendirilir."
+      },
+      {
+        "title": "Saç Mezoterapisi",
+        "description": "Saç köklerine direkt vitamin, mineral ve peptid enjeksiyonu ile saç büyümesini uyarır ve saç dökülmesini yavaşlatır."
+      },
+      {
+        "title": "Saç PRP",
+        "description": "Kişinin kendi kanından elde edilen trombositten zengin plazma ile saç köklerini besler, güçlendirir ve yeni saç çıkışını uyarır."
+      },
+      {
+        "title": "Saç Dökülmesi Tedavisi",
+        "description": "Saç dökülmesinin nedenine yönelik medikal tedavi, PRP, mezoterapi ve diğer yöntemlerle saç kaybının önlenmesi ve yeni saç çıkışının desteklenmesi."
+      },
+      {
+        "title": "Saç Ekimi",
+        "description": "İleri dönem saç dökülmesi için saç ekimi uygunluğu değerlendirmesi, ekim öncesi hazırlık ve ekim sonrası bakım önerileri sunulur."
+      }
+    ]
+  },
+  {
+    "category": "Bölgesel Uygulamalar",
+    "description": "Bölgesel incelme, selülit tedavisi ve diğer özel uygulamalar.",
+    "image": "/images/treatments/ben-aldirma.webp",
+    "treatments": [
+      {
+        "title": "Bölgesel İncelme & Selülit Tedavisi (VelaShape)",
+        "description": "Radyofrekans + vakum + infrared kombinasyonu ile bölgesel incelme, selülit tedavisi ve cilt sıkılaştırma sağlanır."
+      },
+      {
+        "title": "Ben Aldırma",
+        "description": "Dermatoskopik muayene ile değerlendirilen benlerin güvenli şekilde alınması işlemidir. Estetik ve medikal nedenlerle uygulanır."
+      }
+    ]
+  }
+]

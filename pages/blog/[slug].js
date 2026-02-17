@@ -108,7 +108,7 @@ export default function BlogDetailPage({ blog }) {
   return (
     <>
       <Head>
-        <title>{blog.title} - Dr. Kerim Sadullahoğlu</title>
+        <title>{blog.title} - Uzman Dr. Burcu Yeşilkaya</title>
         <meta name="description" content={blog.description} />
       </Head>
 
@@ -181,11 +181,6 @@ export default function BlogDetailPage({ blog }) {
                           <h4 className="text-sm font-medium text-gray-900 group-hover:text-blue-600 transition-colors line-clamp-2 mb-1">
                             {otherBlog.title}
                           </h4>
-                          <div className="flex items-center text-xs text-gray-500 space-x-2">
-                            <span>{otherBlog.date}</span>
-                            <span>•</span>
-                            <span>{otherBlog.readTime}</span>
-                          </div>
                           <p className="text-xs text-gray-600 mt-1 line-clamp-2">
                             {otherBlog.description}
                           </p>
@@ -234,9 +229,6 @@ export default function BlogDetailPage({ blog }) {
                         <h4 className="text-sm font-medium text-gray-900 group-hover:text-blue-600 transition-colors line-clamp-2">
                           {popularBlog.title}
                         </h4>
-                        <div className="flex items-center text-xs text-gray-500 mt-1">
-                          <span>{popularBlog.date}</span>
-                        </div>
                       </div>
                     </div>
                   ))}

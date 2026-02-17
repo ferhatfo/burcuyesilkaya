@@ -23,8 +23,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Dr. Kerim Sadullahoğlu</title>
-        <meta name="description" content="Dr. Kerim Sadullahoğlu" />
+        <title>Uzman Dr. Burcu Yeşilkaya</title>
+        <meta name="description" content="Uzman Dr. Burcu Yeşilkaya" />
       </Head>
       <main>
         <Slideshow/>

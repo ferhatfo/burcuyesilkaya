@@ -7,38 +7,18 @@ export default function About() {
   return (
     <>
       <Head>
-        <title>Hakkımızda - Dr. Kerim Sadullahoğlu</title>
+        <title>Hakkımızda - Uzman Dr. Burcu Yeşilkaya</title>
         <meta name="description" content="Biz kimiz, ne yaparız?" />
       </Head>
       <MultiPageHeader
         subtitle="Hakkımızda"
-        title="Dr. Kerim Sadullahoğlu"
+        title="Uzman Dr. Burcu Yeşilkaya"
         isImage={true}
         imgUrl="/images/about-img.webp"
       />
       <MultiPageDescription
-        description="1976 yılında Alanya’da doğdum. İlk ve ortaöğrenimimi burada tamamladıktan
-        sonra, 1995–2002 yılları arasında Akdeniz Üniversitesi Tıp Fakültesi’nden
-        mezun oldum.
-        2003–2008 yılları arasında İzmir Atatürk Eğitim ve Araştırma Hastanesi KBB
-        Kliniği’nde Kulak Burun Boğaz Uzmanlık Eğitimimi tamamlayarak, 2008
-        yılında KBB Uzmanı unvanını aldım.
-        Uzmanlık sonrası 2008–2010 yılları arasında İzmir Bayındır Devlet
-        Hastanesi’nde, 2010–2011 yıllarında Diyarbakır Askeri Hastanesi’nde görev
-        yaptım.
-        2011–2016 yılları arasında İzmir’deki çeşitli özel hastanelerde KBB hastalıkları
-        ve estetik cerrahi alanında çalıştım.
-        2016–2019 yılları arasında Antalya Kepez Devlet Hastanesi KBB Kliniği
-        Sorumlusu olarak görevime devam ettim.
-        20 yılı aşkın deneyimim ve 2000’den fazla başarılı ameliyat tecrübemle,
-        özellikle rinoplasti (burun estetiğii, revizyon rinoplasti, endoskopik sinüs
-        cerrahisi,
-        konka radyofrekans, horlama tedavisi, otoplasti (kepçe kulak estetiğii ve
-        botoks-dolgu uygulamaları gibi alanlarda hizmet veriyorum.
-        Tüm cerrahi ve medikal işlemlerimde, doğallık ve fonksiyonelliği bir arada
-        sunmayı hedefliyorum.
-        Amacım, hastalarımın hem sağlıklı nefes almasını hem de kendini estetik
-        olarak iyi hissetmesini sağlamaktır."
+        description="18 Mayıs 1984’te Samsun’da doğdum. 2001 yılında Samsun Anadolu Lisesi’nden mezun olduktan sonra aynı yıl Ondokuz Mayıs Üniversitesi Tıp Fakültesinde tıp eğitimime başladım. Tıp fakültesinden mezun olduktan sonra 2007-2009 yılları arasında devlet hizmet yükümlülük görevimi Giresun’da tamamladım. 2009 yılında girdiğim TUS(Tıpta Uzmanlık Sınavı)’da Ankara Numune Eğitim ve Araştırma Hastanesi(Ankara Şehir Hastanesi) Dermatoloji branşını kazanarak,  uzmanlık eğitimime başladım. 2013- 2016 yılları arasında Deri ve Zührevi Hastalıkları/Dermatoloji Uzmanı olarak, 2’inci kez devlet hizmet yükümlülük görevimi Ankara Çocuk Sağlığı ve Hastalıkları Hematoloji Onkoloji Eğitim ve Araştırma Hastanesi’nde çocuk hastalarıma şifa dağıtarak tamamladım. 
+2016-2023 yılları arasında Antalya Kepez Devlet Hastanesi’nde dermatoloji polikliniğinde aktif olarak çalıştım. 2023 yılından itibaren Antalya Merkez'de kendi muayenehanemde tüm dermatolojik hastalıkların tanı ve tedavisi ve tüm kozmetik tedavileri (botoks, dolgu uygulamaları, Prp, Mezoterapi, cilt gençleştirme, lazer tedavileri vb.) uygulamaktayım."
       />
       <AboutPageDescription/>
     </>

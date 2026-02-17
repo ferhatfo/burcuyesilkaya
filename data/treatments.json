@@ -1,0 +1,356 @@
+[
+  {
+    "category": "Cilt Hastalıkları",
+    "treatments": [
+      {
+        "title": "Vitiligo",
+        "description": "Vitiligo, ciltte pigment kaybına bağlı olarak beyaz lekelerin oluştuğu kronik bir cilt hastalığıdır. Bağışıklık sisteminin melanosit hücrelerini etkilemesi sonucu ortaya çıkar. Erken tanı ile vitiligo tedavisi planlanabilir ve leke görünümü azaltılabilir.",
+        "image": "/images/treatments/vitiligo.webp"
+      },
+      {
+        "title": "Sedef Hastalığı (Psoriasis)",
+        "description": "Sedef hastalığı, ciltte kızarıklık, kalınlaşma ve kepeklenme ile seyreden kronik ve tekrarlayıcı bir deri hastalığıdır. En sık saçlı deri, diz, dirsek ve bel bölgesinde görülür. Dermatoloji uzmanı tarafından kişiye özel tedavi gerektirir.",
+        "image": "/images/treatments/sedef-hastaligi-psoriasis.webp"
+      },
+      {
+        "title": "Egzema (Atopik, Seboreik, Kontakt Dermatit)",
+        "description": "Egzema; kaşıntı, kızarıklık, kuruluk ve bazen kabuklanma ile seyreden yaygın bir cilt hastalığıdır. Alerjik nedenler, stres ve çevresel faktörler egzema oluşumunda rol oynar. Egzema tedavisi, türüne göre planlanır.",
+        "image": "/images/treatments/egzema-atopik-seboreik-kontakt-dermatit.webp"
+      },
+      {
+        "title": "Akne (Sivilce)",
+        "description": "Akne, yağ bezlerinin tıkanması ve iltihaplanması sonucu oluşan yaygın bir cilt problemidir. Ergenlik döneminde sık görülse de yetişkinlerde de devam edebilir. Zamanında tedavi edilmezse kalıcı akne izlerine neden olabilir.",
+        "image": "/images/treatments/akne-sivilce.webp"
+      },
+      {
+        "title": "Rosacea (Gül Hastalığı)",
+        "description": "Rosacea, özellikle yanaklar, burun ve çene bölgesinde kızarıklık, damar belirginliği ve hassasiyetle seyreden kronik bir cilt hastalığıdır. Uygun dermatolojik tedavilerle belirtiler kontrol altına alınabilir.",
+        "image": "/images/treatments/rosacea-gul-hastaligi.webp"
+      },
+      {
+        "title": "Ürtiker (Kurdeşen)",
+        "description": "Ürtiker, ani başlayan kaşıntılı, kabarık ve kızarık döküntülerle ortaya çıkan alerjik bir cilt reaksiyonudur. Gıdalar, ilaçlar, enfeksiyonlar veya stres tetikleyici olabilir. Akut ve kronik formları bulunur.",
+        "image": "/images/treatments/urtiker-kurdesen.webp"
+      },
+      {
+        "title": "Mantar Enfeksiyonları",
+        "description": "Mantar enfeksiyonları; cilt, saçlı deri ve tırnaklarda kaşıntı, kızarıklık ve pullanma ile kendini gösterir. Bulaşıcıdır ve uygun antifungal tedavi gerektirir. Erken tedavi ile yayılım önlenir.",
+        "image": "/images/treatments/mantar-enfeksiyonlari.webp"
+      },
+      {
+        "title": "Bakteriyel Cilt Enfeksiyonları",
+        "description": "Bakteriyel cilt enfeksiyonları; ağrı, şişlik, kızarıklık ve iltihapla seyreden deri hastalıklarıdır. Genellikle açık yaralardan veya kıl köklerinden gelişir. Dermatolog kontrolünde antibiyotik tedavisi uygulanır.",
+        "image": "/images/treatments/bakteriyel-cilt-enfeksiyonlari.webp"
+      },
+      {
+        "title": "Viral Cilt Hastalıkları (Uçuk, Zona vb.)",
+        "description": "Viral cilt hastalıkları, virüslerin neden olduğu bulaşıcı deri enfeksiyonlarıdır. Uçuk, zona ve siğiller bu gruba girer. Erken tedavi ile iyileşme süreci hızlanır ve komplikasyonlar azaltılır.",
+        "image": "/images/treatments/viral-cilt-hastaliklari-ucuk-zona-vb.webp"
+      },
+      {
+        "title": "Paraziter Cilt Hastalıkları (Uyuz, Bit)",
+        "description": "Paraziter cilt hastalıkları, parazitlerin neden olduğu yoğun kaşıntı ve döküntülerle seyreder. Uyuz ve bitlenme oldukça bulaşıcıdır. Tedavi sürecinde temaslı kişilerin de değerlendirilmesi gerekir.",
+        "image": "/images/treatments/paraziter-cilt-hastaliklari-uyuz-bit.webp"
+      },
+      {
+        "title": "Cilt Lekeleri (Melasma, Güneş Lekeleri vb.)",
+        "description": "Cilt lekeleri; güneş ışınları, hormonal değişiklikler ve yaşlanmaya bağlı oluşan renk koyulaşmalarıdır. Dermatoloji uzmanı tarafından yapılan leke tedavileri ile görünüm belirgin şekilde azaltılabilir.",
+        "image": "/images/treatments/cilt-lekeleri-melasma-gunes-lekeleri-vb.webp"
+      },
+      {
+        "title": "Cilt Kanserleri ve Kanser Öncesi Lezyonlar",
+        "description": "Cilt kanserleri, derideki hücrelerin kontrolsüz çoğalması sonucu oluşur. Benlerde şekil, renk ve boyut değişikliği erken uyarı işaretidir. Erken tanı hayat kurtarıcıdır.",
+        "image": "/images/treatments/cilt-kanserleri-ve-kanser-oncesi-lezyonlar.webp"
+      },
+      {
+        "title": "Benler ve Deri Lezyonları",
+        "description": "Benler genellikle iyi huylu deri oluşumlarıdır ancak bazı benler zamanla risk taşıyabilir. Dermatoskopik muayene ile benlerin yapısı değerlendirilir ve gerekirse alınır.",
+        "image": "/images/treatments/benler-ve-deri-lezyonlari.webp"
+      },
+      {
+        "title": "Aşırı Terleme (Hiperhidroz)",
+        "description": "Hiperhidroz, normalden fazla terleme ile karakterize bir cilt problemidir. El, ayak, koltuk altı ve yüz bölgesinde sık görülür. Medikal ve cihaz destekli tedavilerle kontrol altına alınabilir.",
+        "image": "/images/treatments/asiri-terleme-hiperhidroz.webp"
+      }
+    ]
+  },
+  {
+    "category": "Saç ve Saçlı Deri Hastalıkları",
+    "treatments": [
+      {
+        "title": "Saç Dökülmesi",
+        "description": "Saç dökülmesi; stres, hormonal değişimler, vitamin eksiklikleri ve genetik faktörlere bağlı olarak ortaya çıkabilen yaygın bir problemdir. Dermatoloji uzmanı tarafından yapılan değerlendirme ile saç dökülmesinin nedeni belirlenir ve kişiye özel tedavi planı oluşturulur."
+      },
+      {
+        "title": "Genetik Saç Dökülmesi (Androgenetik Alopesi)",
+        "description": "Androgenetik alopesi, kadın ve erkeklerde görülen kalıtsal saç dökülmesi türüdür. Saç çizgisinde gerileme ve tepe bölgesinde seyrelme ile kendini gösterir. Erken dönemde başlanan dermatolojik tedaviler saç kaybını yavaşlatabilir.",
+        "image": "/images/treatments/genetik-sac-dokulmesi-androgenetik-alopesi.webp"
+      },
+      {
+        "title": "Saçkıran (Alopecia Areata)",
+        "description": "Saçkıran, bağışıklık sisteminin saç köklerini etkilemesi sonucu oluşan, ani ve yuvarlak saç dökülmeleriyle seyreden bir hastalıktır. Uygun tedavi ile saçların yeniden çıkması mümkündür.",
+        "image": "/images/treatments/sackiran-alopecia-areata.webp"
+      },
+      {
+        "title": "Saçlı Deri Egzeması ve Kepek",
+        "description": "Saçlı deride kızarıklık, kaşıntı, pullanma ve kepeklenme ile seyreden kronik bir cilt hastalığıdır. Stres, hormonal değişiklikler ve çevresel faktörler tetikleyici olabilir. Dermatolojik tedavi ile kontrol altına alınabilir.",
+        "image": "/images/treatments/sacli-deri-egzemasi-ve-kepek.webp"
+      },
+      {
+        "title": "Saç Kökü İltihapları (Folikülit)",
+        "description": "Saç köklerinin bakteriyel veya mantar enfeksiyonları sonucu oluşan iltihaplı durumudur. Kızarıklık, ağrı ve bazen irinli lezyonlarla seyreder. Uygun tedavi ile iyileşme sağlanır.",
+        "image": "/images/treatments/sac-koku-iltihaplari-folikulit.webp"
+      }
+    ]
+  },
+  {
+    "category": "Tırnak Hastalıkları",
+    "treatments": [
+      {
+        "title": "Tırnak Mantarı (Onikomikoz)",
+        "description": "Tırnaklarda renk değişikliği, kalınlaşma ve kırılma ile seyreden yaygın bir mantar enfeksiyonudur. Uzun süreli antifungal tedavi gerektirir. Erken tedavi ile yayılım önlenir.",
+        "image": "/images/treatments/tirnak-mantari-onikomikoz.webp"
+      },
+      {
+        "title": "Tırnak Deformiteleri",
+        "description": "Tırnaklarda şekil bozuklukları, çukurlaşma veya kalınlaşma gibi problemler çeşitli nedenlere bağlı olabilir. Dermatoloji uzmanı tarafından nedene yönelik tedavi planlanır.",
+        "image": "/images/treatments/tirnak-deformiteleri.webp"
+      }
+    ]
+  },
+  {
+    "category": "Diğer Dermatolojik Durumlar",
+    "treatments": [
+      {
+        "title": "Kılcal Damar Problemleri",
+        "description": "Yüz ve vücutta görülen ince damar çatlamaları estetik açıdan rahatsız edici olabilir. Dermatoloji uzmanı tarafından lazer ve medikal yöntemlerle tedavi edilir.",
+        "image": "/images/treatments/kilcal-damar-problemleri.webp"
+      },
+      {
+        "title": "Kaşıntı Hastalıklar",
+        "description": "Kaşıntı, altta yatan dermatolojik veya sistemik hastalıkların belirtisi olabilir. Nedene yönelik dermatolojik değerlendirme gerektirir.",
+        "image": "/images/treatments/kasinti-hastaliklar.webp"
+      },
+      {
+        "title": "Deri Kalınlaşmaları ve Nasırlar",
+        "description": "Sürtünme ve basınca bağlı gelişen deri kalınlaşmaları ve nasırlar, dermatolojik yöntemlerle güvenli şekilde tedavi edilebilir.",
+        "image": "/images/treatments/deri-kalinlasmalari-ve-nasirlar.webp"
+      }
+    ]
+  },
+  {
+    "category": "Uygulamalar",
+    "treatments": [
+      {
+        "title": "Tüm Yüz Botoksu",
+        "description": "Alın çizgileri, kaş arası çizgiler, göz çevresi kırışıklıkları ve diğer yüz bölgelerindeki kırışıklıkların tedavisi için uygulanan kapsamlı botoks uygulamasıdır. Doğal ve genç bir görünüm sağlar.",
+        "image": "/images/treatments/tum-yuz-botoksu.webp"
+      },
+      {
+        "title": "Terleme Botoksu (Koltuk Altı, El & Ayak)",
+        "description": "Aşırı terleme (hiperhidroz) problemi olan bölgelere uygulanan botoks tedavisidir. Koltuk altı, el ve ayak bölgelerinde %80-90 terleme azalması sağlar. 6-12 ay etkilidir.",
+        "image": "/images/treatments/terleme-botoksu.webp"
+      },
+      {
+        "title": "Diş Sıkma (Masseter) Botoksu",
+        "description": "Çene kasına (masseter) uygulanan botoks ile diş sıkma ve gıcırdatma problemi çözülür. Ayrıca çene hattını incelterek V-line yüz şekli sağlar.",
+        "image": "/images/treatments/dis-sikma-masseter-botoksu.webp"
+      },
+      {
+        "title": "Kaş Kaldırma Botoksu",
+        "description": "Sarkan kaşları yukarı kaldırarak gözleri daha açık gösteren ve genç bir bakış sağlayan botoks uygulamasıdır. Ameliyatsız lifting etkisi yaratır.",
+        "image": "/images/treatments/kas-kaldirma-botoksu.webp"
+      },
+      {
+        "title": "Hyaluronik Asit Dolgular",
+        "description": "Doğal bir madde olan hyaluronik asit ile hacim kaybını giderir, konturları belirginleştirir. 6-18 ay etkilidir ve geri dönüşümlüdür.",
+        "image": "/images/treatments/hyaluronik-asit-dolgular.webp"
+      },
+      {
+        "title": "Dudak Dolgusu",
+        "description": "Dudak hacmini artırır, konturunu belirginleştirir ve daha dolgun, genç bir görünüm sağlar. Doğal ve estetik sonuçlar verir.",
+        "image": "/images/treatments/dudak-dolgusu.webp"
+      },
+      {
+        "title": "Yüz Dolgusu",
+        "description": "Yanak, elmacık kemiği ve diğer yüz bölgelerine uygulanan dolgu ile hacim kaybı giderilir ve daha genç bir görünüm sağlanır.",
+        "image": "/images/treatments/yuz-dolgusu.webp"
+      },
+      {
+        "title": "Göz Altı Işık Dolgusu",
+        "description": "Göz altı çukurlarını doldurur, morlukları azaltır ve yorgun görünümü giderir. Işıltılı ve canlı bir bakış sağlar.",
+        "image": "/images/treatments/goz-alti-isik-dolgusu.webp"
+      },
+      {
+        "title": "Çene Hattı Dolgusu",
+        "description": "Çene hattını belirginleştirir, çene açısını güçlendirir ve daha keskin bir profil sağlar. V-line yüz şekli için idealdir.",
+        "image": "/images/treatments/cene-hatti-dolgusu.webp"
+      },
+      {
+        "title": "Dolgu Eritme",
+        "description": "İstenmeyen dolguların hyaluronidaz enzimi ile güvenli şekilde eritilmesi işlemidir. Hızlı ve etkili bir çözümdür.",
+        "image": "/images/treatments/dolgu-eritme.webp"
+      },
+      {
+        "title": "Ameliyatsız Yüz Germe",
+        "description": "Cerrahi müdahale gerektirmeden yüz sarkmasını toparlayan ve cilt sıkılaşması sağlayan non-invaziv yöntemlerdir.",
+        "image": "/images/treatments/ameliyatsiz-yuz-germe.webp"
+      },
+      {
+        "title": "Mezobotoks",
+        "description": "Cilt altına mikro dozlarda botoks enjeksiyonu ile gözenekleri küçültür, cilt kalitesini artırır ve parlak bir görünüm sağlar.",
+        "image": "/images/treatments/mezobotoks.webp"
+      },
+      {
+        "title": "Somon DNA",
+        "description": "Doğal somon DNA'sı içeren serum ile cilt yenilenmesi, nemlendirme ve anti-aging etkisi sağlanır.",
+        "image": "/images/treatments/somon-dna.webp"
+      },
+      {
+        "title": "Kollajen Uygulamaları",
+        "description": "Cilt altına kollajen enjeksiyonu ile cilt sıkılaşması, kırışıklık azalması ve daha genç bir görünüm sağlanır.",
+        "image": "/images/treatments/kollajen-uygulamalari.webp"
+      },
+      {
+        "title": "Akne ve Sivilce Tedavisi",
+        "description": "Topikal ve oral ilaçlar, kimyasal peeling, lazer tedavileri ve medikal cilt bakımı ile akne problemini kontrol altına alır.",
+        "image": "/images/treatments/akne-ve-sivilce-tedavisi.webp"
+      },
+      {
+        "title": "Akne (Sivilce) İzleri Tedavisi",
+        "description": "Fraksiyonel lazer, altın iğne, karbon peeling ve dermapen uygulamaları ile akne izlerini azaltır ve cilt dokusunu iyileştirir.",
+        "image": "/images/treatments/akne-sivilce-izleri-tedavisi.webp"
+      },
+      {
+        "title": "Cerrahi ve Travmatik İz Tedavileri",
+        "description": "Cerrahi operasyonlar veya travma sonrası oluşan izlerin fraksiyonel lazer ve diğer yöntemlerle tedavi edilmesidir.",
+        "image": "/images/treatments/cerrahi-travmatik-iz-tedavileri.webp"
+      },
+      {
+        "title": "Cosmelan (Leke Maskesi)",
+        "description": "Profesyonel leke açma maskesi. Melasma ve derin lekeler için etkilidir. Kliniğimizde uygulanır ve ev bakım programı ile desteklenir.",
+        "image": "/images/treatments/cosmelan-leke-maskesi.webp"
+      },
+      {
+        "title": "Kılcal Damar Tedavisi",
+        "description": "Yüz ve vücuttaki görünür kılcal damarların lazer ile tedavi edilmesidir. Kızarıklıkların azalması ve damar görünümünün silinmesi sağlanır.",
+        "image": "/images/treatments/kilcal-damar-tedavisi.webp"
+      },
+      {
+        "title": "Yüz Damarlarının Lazerle Tedavisi",
+        "description": "Yüz bölgesindeki kılcal damarların ve kızarıklıkların lazer teknolojisi ile güvenli şekilde tedavi edilmesidir.",
+        "image": "/images/treatments/yuz-damarlarinin-lazerle-tedavisi.webp"
+      },
+      {
+        "title": "Dövme Silme (Q-Switched Nd:YAG)",
+        "description": "İstenmeyen dövmelerin Q-Switched Nd:YAG lazer ile güvenli ve etkili şekilde silinmesi işlemidir.",
+        "image": "/images/treatments/dovme-silme.webp"
+      },
+      {
+        "title": "Medikal Cilt Bakımı (JetPeel)",
+        "description": "İğnesiz, basınçlı oksijenle yapılan profesyonel cilt bakımıdır. Cilt temizliği, nemlendirme ve canlı görünüm sağlar.",
+        "image": "/images/treatments/medikal-cilt-bakimi-jetpeel.webp"
+      },
+      {
+        "title": "Kimyasal Peeling",
+        "description": "Glikolik asit, salisilik asit, laktik asit ve TCA peeling uygulamaları ile cilt yenilenmesi, leke açılması ve gözenek temizliği sağlanır.",
+        "image": "/images/treatments/kimyasal-peeling.webp"
+      },
+      {
+        "title": "Işıltı Peeling",
+        "description": "Hafif ve yüzeysel peeling uygulaması ile cilt tonu eşitleme, parlaklık ve canlı görünüm sağlanır. Minimal iyileşme süresi gerektirir.",
+        "image": "/images/treatments/isilti-peeling.webp"
+      },
+      {
+        "title": "Trikoskopik Saç Analizi",
+        "description": "Dijital saç analizi cihazı ile saç yoğunluğu, saç teli kalınlığı, saç kökü durumu ve kıl kökü sayısı değerlendirilir.",
+        "image": "/images/treatments/trikoskopik-sac-analizi.webp"
+      },
+      {
+        "title": "Saç Mezoterapisi",
+        "description": "Saç köklerine direkt vitamin, mineral ve peptid enjeksiyonu ile saç büyümesini uyarır ve saç dökülmesini yavaşlatır.",
+        "image": "/images/treatments/sac-mezoterapisi.webp"
+      },
+      {
+        "title": "Saç PRP",
+        "description": "Kişinin kendi kanından elde edilen trombositten zengin plazma ile saç köklerini besler, güçlendirir ve yeni saç çıkışını uyarır.",
+        "image": "/images/treatments/sac-prp.webp"
+      },
+      {
+        "title": "Saç Ekimi Danışmanlığı",
+        "description": "İleri dönem saç dökülmesi için saç ekimi uygunluğu değerlendirmesi, ekim öncesi hazırlık ve ekim sonrası bakım önerileri sunulur.",
+        "image": "/images/treatments/sac-ekimi-danismanligi.webp"
+      },
+      {
+        "title": "Ben Aldırma",
+        "description": "Dermatoskopik muayene ile değerlendirilen benlerin güvenli şekilde alınması işlemidir. Estetik ve medikal nedenlerle uygulanır.",
+        "image": "/images/treatments/ben-aldirma.webp"
+      }
+    ]
+  },
+  {
+    "category": "Cihazlı Tedaviler",
+    "treatments": [
+      {
+        "title": "Morpheus 8 (Yeni Nesil Altın İğne – RF)",
+        "description": "Morpheus 8, mikro iğnelerle cilt altına inen ve aynı anda radyofrekans enerjisi veren ileri teknoloji bir sistemdir. Cilt sıkılaşması, lifting, yüz konturunun belirginleşmesi, kırışıklık azalması, gözenek küçültme ve akne izi tedavisi sağlar.",
+        "image": "/images/treatments/morpheus-8.webp"
+      },
+      {
+        "title": "Altın İğne (Mikro İğneli Radyofrekans)",
+        "description": "Altın kaplı mikro iğnelerle cilt altına radyofrekans enerjisi verilir. Kolajen üretimi artar, cilt kendini yeniler. Cilt sıkılaştırma, akne izleri, gözenek tedavisi, ince kırışıklıklar ve cilt tonu eşitleme için kullanılır.",
+        "image": "/images/treatments/altin-igne.webp"
+      },
+      {
+        "title": "Fraksiyonel CO₂ Lazer",
+        "description": "Cildin kontrollü şekilde soyularak yenilenmesini sağlayan güçlü bir lazer sistemidir. Akne izleri, cerrahi ve travmatik izler, derin kırışıklıklar ve cilt yenilenmesi için kullanılır. Tek seansta belirgin etki sağlar.",
+        "image": "/images/treatments/fraksiyonel-co2-lazer.webp"
+      },
+      {
+        "title": "Q-Switched Nd:YAG Lazer",
+        "description": "Yüksek enerjili, kısa atımlı lazer teknolojisi. Leke tedavisi, dövme silme, karbon peeling ve cilt tonu açma için kullanılır. Melanin pigmentini hedef alarak etkili sonuçlar sağlar.",
+        "image": "/images/treatments/q-switched-ndyag-lazer.webp"
+      },
+      {
+        "title": "IPL (Yoğun Atımlı Işık)",
+        "description": "Lazer olmayan, ışık bazlı bir sistemdir. Güneş lekeleri, kızarıklıklar, kılcal damarlar ve cilt tonu eşitleme için kullanılır. Yaygın ve etkili bir tedavi yöntemidir.",
+        "image": "/images/treatments/ipl-yogun-atimli-isik.webp"
+      },
+      {
+        "title": "Alexandrite & Diod Lazer",
+        "description": "Lazer epilasyonda kullanılan altın standart sistemlerdir. Kalıcı kıl azaltma, batık ve kıl dönmesi sorunlarının azalması için etkili çözümler sunar. Tüm vücut bölgeleri için uygundur.",
+        "image": "/images/treatments/alexandrite-diod-lazer.webp"
+      },
+      {
+        "title": "Kılcal Damar Lazerleri",
+        "description": "Özellikle yüz ve burun çevresindeki görünür damarlar için kullanılır. Kızarıklıkların azalması ve damar görünümünün silinmesi sağlanır. Hassas ve etkili bir tedavi yöntemidir.",
+        "image": "/images/treatments/kilcal-damar-lazerleri.webp"
+      },
+      {
+        "title": "Jet Peel (Oksijenli Cilt Bakımı)",
+        "description": "İğnesiz, basınçlı oksijenle yapılan medikal cilt bakımıdır. Cilt temizliği, nemlendirme, canlı ve parlak görünüm sağlar. Hassas ciltlere uygundur ve minimal iyileşme süresi gerektirir.",
+        "image": "/images/treatments/jet-peel.webp"
+      },
+      {
+        "title": "Karbon Peeling (Hollywood Peeling)",
+        "description": "Karbon solüsyon + Q-switched lazer kombinasyonu. Gözenek sıkılaştırma, cilt tonu açma, akne kontrolü ve parlak, pürüzsüz cilt sağlar. Hızlı ve etkili bir uygulamadır.",
+        "image": "/images/treatments/karbon-peeling.webp"
+      },
+      {
+        "title": "VelaShape",
+        "description": "Radyofrekans + vakum + infrared kombinasyonu. Bölgesel incelme, selülit tedavisi ve cilt sıkılaştırma için kullanılır. Non-invaziv bir yöntemdir.",
+        "image": "/images/treatments/velashape.webp"
+      },
+      {
+        "title": "Fokus Ultrason (HIFU)",
+        "description": "Ultherapy dışındaki HIFU cihazları da benzer prensiple çalışır. Yüz ve boyun germe, sarkma toparlama ve kolajen üretimi sağlar. Ameliyatsız lifting etkisi yaratır.",
+        "image": "/images/treatments/fokus-ultrason-hifu.webp"
+      },
+      {
+        "title": "LED Işık Tedavileri",
+        "description": "Farklı dalga boylarında ışık kullanılır. Akne tedavisi, cilt iyileşmesi ve kızarıklık azaltma için etkilidir. Yumuşak ve güvenli bir tedavi yöntemidir.",
+        "image": "/images/treatments/led-isik-tedavileri.webp"
+      }
+    ]
+  }
+]

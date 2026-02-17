@@ -24,6 +24,7 @@
     "@tailwindcss/postcss": "^4.1.5",
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.3",
+    "sharp": "^0.33.0",
     "tailwindcss": "^4.1.5"
   }
 }

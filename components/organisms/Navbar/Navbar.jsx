@@ -1,4 +1,3 @@
-'use client';
 import { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -7,11 +6,13 @@ import { gsap } from 'gsap';
 const menuItems = [
   { name: 'Anasayfa', href: '/' },
   { name: 'Hakkımızda', href: '/hakkimizda' },
-  { name: 'Hizmetler', href: '/hizmetler' },
+  { name: 'Tedaviler', href: '/tedaviler' },
+  { name: 'Uygulamalar', href: '/uygulamalar' },
+  { name: 'Cihazlı Tedaviler', href: '/cihazli-tedaviler' },
   { name: 'Blog', href: '/blog' },
   { name: 'İletişim', href: '/iletisim' },
-  { name: '+90 539 437 76 07', href: 'tel:+905394377607' },
-  { iconSrc: '/images/svg/Instagram.svg', href: 'https://www.instagram.com/dr.kerim_sadullahoglu', isIcon: true },
+  { name: '+90 533 664 28 55', href: 'tel:+905336642855' },
+  { name: 'Instagram', iconSrc: '/images/svg/Instagram.svg', href: 'https://www.instagram.com/dermatologdr.burcuyesilkaya', isIcon: true },
 ];
 
 
@@ -49,14 +50,14 @@ export default function Navbar() {
   }, [isOpen]);
 
   return (
-    <header className="relative fixed top-0 left-0 w-full z-50 bg-white shadow-md">
+    <header className="relative top-0 left-0 w-full z-50 bg-white shadow-md">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <Link href="/">
-          <Image src="/images/svg/logo.svg" alt="Logo" width={100} height={30} />
+          <Image src="/images/svg/logo.svg" alt="Logo" width={250} height={60} />
         </Link>
 
         <button
-          className="lg:hidden text-3xl z-[60] text-[#1C1468]"
+          className="lg:hidden text-3xl z-[60] text-[#383838]"
           onClick={() => setIsOpen((prev) => !prev)}
         >
           {isOpen ? '✕' : '☰'}
@@ -64,7 +65,7 @@ export default function Navbar() {
 
         <nav className="hidden lg:flex text-sm gap-4 font-medium">
           {menuItems.map((item) => (
-            <Link key={item.name} href={item.href} className="flex items-center gap-2 text-[#1C1468]">
+            <Link key={item.name} href={item.href} className="flex items-center gap-2 text-[#383838]">
               {item.isIcon ? (
                 <Image src={item.iconSrc} alt="Icon" width={24} height={24} />
               ) : (
@@ -89,7 +90,7 @@ export default function Navbar() {
                   href={item.href}
                   target={item.isIcon ? '_blank' : undefined}
                   rel={item.isIcon ? 'noopener noreferrer' : undefined}
-                  className="text-xl font-medium flex items-center justify-center gap-2 text-[#1C1468]"
+                  className="text-xl font-medium flex items-center justify-center gap-2 text-[#383838]"
                   onClick={() => setIsOpen(false)}
                 >
                   {item.isIcon ? (

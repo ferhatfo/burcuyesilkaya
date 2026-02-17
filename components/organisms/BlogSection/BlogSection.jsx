@@ -11,9 +11,9 @@ export default function BlogSection({isIndex}) {
       <div className="container mx-auto px-4">
         {isIndex && (
           <div className="text-center mb-8 md:mb-8">
-            <h2 className="text-3xl font-bold text-[#1C1468] mb-4">Blog Paylaşımlarımız</h2>
+            <h2 className="text-3xl font-bold text-[#383838] mb-4">Blog Paylaşımlarımız</h2>
             <p className="text-gray-600 max-w-2xl mx-auto text-sm">
-              Op. Dr. Kerim Sadullahoğlu'nun rinoplasti, horlama tedavisi, alerji ve KBB hastalıkları üzerine uzman görüşleri, ameliyat teknikleri ve hasta deneyimleriyle hazırlanan blog yazılarımız, sağlıklı ve estetik bir burun için tüm merak ettiklerinizi kapsıyor.
+              Op. Uzman Dr. Burcu Yeşilkaya'nun rinoplasti, horlama tedavisi, alerji ve KBB hastalıkları üzerine uzman görüşleri, ameliyat teknikleri ve hasta deneyimleriyle hazırlanan blog yazılarımız, sağlıklı ve estetik bir burun için tüm merak ettiklerinizi kapsıyor.
             </p>
           </div>
         )}
@@ -31,13 +31,13 @@ export default function BlogSection({isIndex}) {
                 />
               </div>
               <div className="p-6 py-8 bg-gray-100 rounded-xl rounded-tl-none rounded-tr-none">
-                <h2 className="text-xl font-semibold text-[#1C1468] mb-3">{blog.title}</h2>
+                <h2 className="text-xl font-semibold text-[#383838] mb-3">{blog.title}</h2>
                 <p className="text-gray-600 text-sm mb-6 line-clamp-3">{blog.description}</p>
                 <Link href={`/blog/${slugify(blog.title)}`}>
                   <Button
                     text="İncele"
                     backgroundColor="#ffffff"
-                    textColor="#1C1468"
+                    textColor="#383838"
                     icon={<FaArrowRight size={14} />}
                   />
                 </Link>
@@ -51,7 +51,7 @@ export default function BlogSection({isIndex}) {
             <Link href="/blog">
               <Button
                 text="Tüm Yazıları Gör"
-                backgroundColor="#1C1468"
+                backgroundColor="#383838"
                 textColor="#fff"
                 icon={<FaArrowRight size={14} />}
               />

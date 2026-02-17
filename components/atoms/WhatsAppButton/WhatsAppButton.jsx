@@ -5,7 +5,7 @@ import Image from 'next/image';
 export default function WhatsAppButton() {
   return (
     <Link
-      href="https://api.whatsapp.com/send?phone=+90 5394377607 &text=Merhaba bilgi almak istiyorum"
+      href="https://api.whatsapp.com/send?phone=+905336642855 &text=Merhaba bilgi almak istiyorum"
       target="_blank"
       rel="noopener noreferrer"
       className="fixed bottom-6 right-6 sm:bottom-9 sm:right-10 z-50 bg-white p-3 rounded-full shadow-[0px_8px_20px_rgba(51,97,89,0.4)]"
