@@ -79,7 +79,8 @@
     "treatments": [
       {
         "title": "Saç Dökülmesi",
-        "description": "Saç dökülmesi; stres, hormonal değişimler, vitamin eksiklikleri ve genetik faktörlere bağlı olarak ortaya çıkabilen yaygın bir problemdir. Dermatoloji uzmanı tarafından yapılan değerlendirme ile saç dökülmesinin nedeni belirlenir ve kişiye özel tedavi planı oluşturulur."
+        "description": "Saç dökülmesi; stres, hormonal değişimler, vitamin eksiklikleri ve genetik faktörlere bağlı olarak ortaya çıkabilen yaygın bir problemdir. Dermatoloji uzmanı tarafından yapılan değerlendirme ile saç dökülmesinin nedeni belirlenir ve kişiye özel tedavi planı oluşturulur.",
+        "image": "/images/treatments/sac-dokulmesi.webp"
       },
       {
         "title": "Genetik Saç Dökülmesi (Androgenetik Alopesi)",

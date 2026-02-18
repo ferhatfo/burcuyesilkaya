@@ -7,10 +7,15 @@ import Button from '@/components/atoms/Button';
 import { FaArrowRight } from 'react-icons/fa';
 import { slugify } from '@/utils/slugify';
 
+const EXCLUDED_CATEGORIES = ['Uygulamalar', 'Cihazlı Tedaviler'];
+
 export async function getStaticProps() {
+  const filteredTreatments = treatments.filter(
+    (cat) => !EXCLUDED_CATEGORIES.includes(cat.category)
+  );
   return {
     props: {
-      treatments,
+      treatments: filteredTreatments,
     },
   };
 }
@@ -42,10 +47,10 @@ export default function TreatmentsPage({ treatments }) {
                 return (
                   <div
                     key={treatmentIndex}
-                    className="overflow-hidden"
+                    className="overflow-hidden h-full flex flex-col"
                   >
                     {treatment.image && (
-                      <div className="relative h-60">
+                      <div className="relative h-60 flex-shrink-0">
                         <Image
                           src={treatment.image}
                           alt={treatment.title}
@@ -55,14 +60,14 @@ export default function TreatmentsPage({ treatments }) {
                         />
                       </div>
                     )}
-                    <div className="p-6 py-8 bg-gray-100 rounded-xl rounded-tl-none rounded-tr-none">
-                      <h3 className="text-xl font-semibold text-[#383838] mb-3">
+                    <div className="p-6 py-8 bg-gray-100 rounded-xl rounded-tl-none rounded-tr-none flex flex-col flex-1 min-h-0">
+                      <h3 className="text-xl font-semibold text-[#383838] mb-3 flex-shrink-0">
                         {treatment.title}
                       </h3>
-                      <p className="text-gray-600 text-sm mb-6 line-clamp-3">
+                      <p className="text-gray-600 text-sm mb-6 flex-1 min-h-0">
                         {treatment.description}
                       </p>
-                      <Link href={`/tedaviler/${slug}`}>
+                      <Link href={`/tedaviler/${slug}`} className="flex-shrink-0">
                         <Button
                           text="Detayları Gör"
                           backgroundColor="#ffffff"
