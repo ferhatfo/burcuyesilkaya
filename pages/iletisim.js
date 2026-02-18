@@ -11,7 +11,7 @@ export default function About() {
   return (
     <>
       <Head>
-        <title>İletişim - Dr. Kerim Sadullaoğlu</title>
+        <title>İletişim - Uzman Dr. Burcu Yeşilkaya</title>
         <meta name="description" content="Bizimle iletişime Geçin" />
       </Head>
       <MultiPageHeader
