@@ -15,8 +15,28 @@ export default function Document() {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Head>
       <body className="antialiased">
+        <div id="google_translate_element"></div>
         <Main />
         <NextScript />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              function googleTranslateElementInit() {
+                new google.translate.TranslateElement({
+                  pageLanguage: 'tr',
+                  includedLanguages: 'en,tr',
+                  layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+                  autoDisplay: false
+                }, 'google_translate_element');
+              }
+            `,
+          }}
+        />
+        <script
+          type="text/javascript"
+          src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"
+          async
+        />
       </body>
     </Html>
   );

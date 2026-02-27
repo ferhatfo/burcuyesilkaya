@@ -23,3 +23,28 @@ h2{
   color: #383838 !important;
   content: '';
 }
+
+/* Google Translate Styles */
+.goog-te-banner-frame.skiptranslate {
+  display: none !important;
+}
+
+body {
+  top: 0 !important;
+}
+
+.goog-te-gadget {
+  display: none !important;
+}
+
+#google_translate_element {
+  display: none !important;
+}
+
+.skiptranslate {
+  display: none !important;
+}
+
+iframe.skiptranslate {
+  display: none !important;
+}
