@@ -87,7 +87,7 @@ export default function Navbar() {
     <header className="relative top-0 left-0 w-full z-50 bg-white shadow-md">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <Link href="/">
-          <Image src="/images/svg/logo.svg" alt="Logo" width={250} height={60} />
+          <Image src="/images/svg/logo.svg" alt="Logo" width={250} height={60} className="max-w-[200px] lg:max-w-[250px]" />
         </Link>
 
         <div className="flex items-center gap-3 lg:hidden">
@@ -128,6 +128,7 @@ export default function Navbar() {
           
           <button
             className="text-3xl z-[60] text-[#383838]"
+            style={{ marginTop: '-5px' }}
             onClick={() => setIsOpen((prev) => !prev)}
           >
             {isOpen ? '✕' : '☰'}
